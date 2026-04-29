@@ -67,7 +67,7 @@ Built with modern AI tools like **LLMs, RAG, and vector databases**, this system
 
 ## 📸 Demo
 
-## Find Job
+## Find Jobs
 ![App Screenshot](https://github.com/Chintan1545/ai-job-agent/blob/568c2b3c9b25c6269b8c9d12b2b6c1660fa55891/Screenshot%202026-04-29%20185337.png)
 
 ## My Applications
