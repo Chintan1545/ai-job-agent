@@ -174,6 +174,3 @@ If you like this project:
 ## 📜 License
 
 MIT License
-
-::contentReference[oaicite:3]{index=3}
-```
