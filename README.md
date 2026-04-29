@@ -67,7 +67,9 @@ Built with modern AI tools like **LLMs, RAG, and vector databases**, this system
 
 ## 📸 Demo
 
-👉 (Add your HuggingFace / Live Demo link here)
+![App Screenshot](app.png)
+![App Screenshot](app.png)
+![App Screenshot](app.png)
 
 ---
 
