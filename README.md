@@ -1,4 +1,4 @@
-# 🤖 AI Job Agent (Multi-Agent System)
+# 🤖 AI Job Agent 
 
 An AI-powered job automation system that searches, scores, and applies to jobs using a **multi-agent architecture**.
 
