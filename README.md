@@ -67,16 +67,16 @@ Built with modern AI tools like **LLMs, RAG, and vector databases**, this system
 
 ## 📸 Demo
 
-![App Screenshot](app.png)
-![App Screenshot](app.png)
-![App Screenshot](app.png)
+![App Screenshot](Screenshot 2026-04-29 185337.png)
+![App Screenshot](My Applications.png)
+![App Screenshot](How it Works.png)
 
 ---
 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-job-agent.git
+git clone https://github.com/Chintan1545/ai-job-agent.git
 cd ai-job-agent
 pip install -r requirements.txt
 ````
